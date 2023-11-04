@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\bin\Debug\net6.0\İndexerHomeWork.exe
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\bin\Debug\net6.0\İndexerHomeWork.deps.json
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\bin\Debug\net6.0\İndexerHomeWork.runtimeconfig.json
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\bin\Debug\net6.0\İndexerHomeWork.dll
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\bin\Debug\net6.0\İndexerHomeWork.pdb
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\İndexerHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\İndexerHomeWork.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\İndexerHomeWork.AssemblyInfo.cs
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\İndexerHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\İndexerHomeWork.dll
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\refint\İndexerHomeWork.dll
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\İndexerHomeWork.pdb
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\İndexerHomeWork.genruntimeconfig.cache
+C:\Users\HP\Desktop\İndexer-Home\İndexerHomeWork\İndexerHomeWork\obj\Debug\net6.0\ref\İndexerHomeWork.dll
