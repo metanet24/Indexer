@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\bin\Debug\net6.0\IndexerExceptionHomeWork.exe
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\bin\Debug\net6.0\IndexerExceptionHomeWork.deps.json
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\bin\Debug\net6.0\IndexerExceptionHomeWork.runtimeconfig.json
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\bin\Debug\net6.0\IndexerExceptionHomeWork.dll
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\bin\Debug\net6.0\IndexerExceptionHomeWork.pdb
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\IndexerExceptionHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\IndexerExceptionHomeWork.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\IndexerExceptionHomeWork.AssemblyInfo.cs
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\IndexerExceptionHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\IndexerExceptionHomeWork.dll
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\refint\IndexerExceptionHomeWork.dll
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\IndexerExceptionHomeWork.pdb
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\IndexerExceptionHomeWork.genruntimeconfig.cache
+C:\Users\HP\Desktop\c#\IndexerExceptionHomeWork\IndexerExceptionHomeWork\obj\Debug\net6.0\ref\IndexerExceptionHomeWork.dll
